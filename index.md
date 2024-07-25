@@ -35,7 +35,7 @@ Apartment management desktop application made from Java and mySQL. (School proje
 A payment web application for the government which was meant to be integrated to the e-govermnet cloud project made from python using flask and mySQL. (Hackathon)
 
 ## Contact
-- **Email:** RamerafheKaone@protonmail.com
+- **Email:** kaone.ramerafhe@africacode.academy
 - **LinkedIn:** https://linkedin.com/in/kaone-ramerafhe-738ab5250
 - **GitHub:** https://github.com/PrimordialOrigin
 
